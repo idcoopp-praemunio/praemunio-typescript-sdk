@@ -1,6 +1,6 @@
 {
   "name": "@praemunio/sdk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "OpenAPI client for Praemunio Typescript SDK",
   "author": "bonavJS <bonavjs@gmail.com>",
   "repository": {
