@@ -10,8 +10,9 @@
   "keywords": [
     "fetch",
     "typescript",
-    "openapi-client",
-    "openapi-generator"
+    "Praemunio",
+    "OpenAPI",
+    "SDK"
   ],
   "license": "Unlicense",
   "main": "./dist/index.js",
